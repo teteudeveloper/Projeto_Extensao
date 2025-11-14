@@ -61,24 +61,6 @@ O projeto segue um **protótipo funcional no Figma**, garantindo **usabilidade e
 
 ---
 
-# Linguagens e Tecnologias
-
-Front-end ( Next.js, TailwindCSS, Shadcn )
-
-Back-end ( Java, Spring-Boot, JWT Qauth2 e Evolution API para WhatsApp ) 
-
-DataBase ( PostgreSQL ) 
-
-Deploy ( Vercel )
-
-# Equipe Multidisciplinar
-
-Gerenciador do Projeto - Kauã Costa
-
-Front-end - Matheus Ramalho e Gabriel Oliveira
-
-Back-end - Mateus Cavalcante e Abraão Davi
-
 DataBase - Matheus Ramalho e Guilherme Lira 
 
 QA - Kauã Costa e Gabriel Oliveira
