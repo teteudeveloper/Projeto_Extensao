@@ -60,7 +60,3 @@ O projeto segue um **protótipo funcional no Figma**, garantindo **usabilidade e
 [Figma - Site de Barbearia](https://www.figma.com/design/FgSRPE2otRPBWQIWgHVx2n/Site-de-barbearia--Community-?node-id=0-1&m=dev&t=f8s1RspkrumLMq5s-1)
 
 ---
-
-DataBase - Matheus Ramalho e Guilherme Lira 
-
-QA - Kauã Costa e Gabriel Oliveira
